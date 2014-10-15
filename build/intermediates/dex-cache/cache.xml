@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/xavier/Project/JoyStickControllerX/app/build/intermediates/pre-dexed/debug/classes-0200ce4900bf9653084f24c3a341c74e738c5457.jar"
+        jar="/Users/xavier/Project/JoyStickControllerX/app/build/intermediates/exploded-aar/JoyStickControllerX/bluetoothSPP/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f9e825c515096946bb97f86edec03462b6d74b8a"/>
+    <item
+        dex="/Users/xavier/Project/JoyStickControllerX/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1c9d3004a478d25cfdbabcd304ba31835b34649e.jar"
+        jar="/Users/xavier/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
